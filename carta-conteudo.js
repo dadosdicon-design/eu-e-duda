@@ -1,4 +1,4 @@
-window.CARTA_TEXTO = `u vou lembrar dos nossos dias
+window.CARTA_TEXTO = `Eu vou lembrar dos nossos dias
 dos nossos beijos cheios de cuidado
 do amor aprendido com calma
 e de como escolhemos caminhar juntos
